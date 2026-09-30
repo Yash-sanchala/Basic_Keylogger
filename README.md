@@ -85,3 +85,11 @@ files are not rewritten by this fix.
 This repository contains the standalone focused-window demo. No system-wide
 listener or web version is required. Virtual environments, generated caches and
 exported CSV files are excluded by `.gitignore`.
+
+## 👤 Author & Contact
+
+**Yash Sanchala**
+- 💼 **LinkedIn:** [Yash Sanchala](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 🐙 **GitHub:** [Yash-sanchala](https://github.com/Yash-sanchala)
+- 📧 **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+
