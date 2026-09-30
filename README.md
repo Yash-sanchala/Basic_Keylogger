@@ -89,7 +89,7 @@ exported CSV files are excluded by `.gitignore`.
 ## 👤 Author & Contact
 
 **Yash Sanchala**
-- 💼 **LinkedIn:** [Yash Sanchala](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 💼 **LinkedIn:** [Yash Sanchala](https://www.linkedin.com/in/yash-sanchala-6a1636236/)
 - 🐙 **GitHub:** [Yash-sanchala](https://github.com/Yash-sanchala)
-- 📧 **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+- 📧 **Email:** [yashsanchala2005@gmail.com](mailto:yashsanchala2005@gmail.com)
 
